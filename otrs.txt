@@ -1,0 +1,35 @@
+службы
+
+Apache2.2
+Apache/2.2.4 (Win32) mod_perl/2.0.3-dev Perl/v5.8.8
+"C:\OTRS\Apache2\bin\httpd.exe" -k runservice
+
+Cron Service (CRONw)
+CRONw - Cron for Windows, see http://cronw.sourceforge.net
+C:\OTRS\Perl\bin\perl.exe "C:\OTRS\CRONw\cronService.pl" --crontab="C:\OTRS\CRONw\crontab.txt"
+
+MySQL
+C:\OTRS\mysql\bin\mysqld-nt.exe --defaults-file=C:\OTRS\mysql\my.ini MySQL
+
+
+login:root
+pass:root
+server:localhost
+user:otrs
+pass:hot
+name-db-host:localhost
+name-db:otrs
+
+http://localhost/otrs/installer.pl
+
+Стартовая страница:	http://localhost/otrs/index.pl 
+Пользователь:	root@localhost
+Пароль:	root
+
+((enjoy))
+ Команда разработчиков OTRS
+
+http://localhost/otrs/customer.pl
+http://localhost/otrs/public.pl
+http://localhost/otrs/rpc.pl
+http://localhost/otrs/faq.pl

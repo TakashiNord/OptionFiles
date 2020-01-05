@@ -1,0 +1,131 @@
+ProfileName=Scrub_lite
+ProfileDesc=Total System Scrub is a comprehensive system cleaning operation.  Total System Scrub combines the cleaning operations of Log Off Clean Up and Privacy Guard and goes much deeper.  Total System Scrub also cleans the Swap File and Unused Disk Space in order 
+AnyDir=FALSE
+AnyFile=TRUE
+AnyDownloadFile=FALSE
+Autocomplete=FALSE
+Clipboard=TRUE
+FloppyBS=FALSE
+ConfirmDlg=FALSE
+Cookies=FALSE
+DeletedOutlook=FALSE
+ExecuteAppAfter=FALSE
+ExecuteAppBefore=FALSE
+Favorites=TRUE
+FindComputer=TRUE
+FindFile=TRUE
+HibernationFile=FALSE
+History=FALSE
+InetTemporaryFiles=FALSE
+DownloadTemp=FALSE
+InformDlg=FALSE
+IniSection=FALSE
+MediaplayerRecent=TRUE
+Music=TRUE
+MyTemporaryFiles=FALSE
+Network=TRUE
+Pictures=FALSE
+PlayWavAfter=FALSE
+PlayWavBefore=FALSE
+RecentDoc=TRUE
+RecycleBin=TRUE
+ScanDiskTemp=TRUE
+Registry=TRUE
+Run=TRUE
+SMClick=TRUE
+SMOrder=TRUE
+SearchHistory=TRUE
+CommonDialogHistory=TRUE
+SwapFile=FALSE
+TemporaryFiles=FALSE
+WipeFreeSpace=TRUE
+CleanFileSlackSpace=TRUE
+AppFileAfter=
+AppFileBefore=
+SLCookies=
+SLFavorites=DoD Level C
+SLHistory=
+SLInetTemporaryFiles=
+SLMusic=DoD Level C
+SLMyTemporaryFiles=
+SLPictures=
+SLRecentDoc=DoD Level C
+SLCommonDialogHistory=DoD Level C
+SLRecycleBin=DoD Level C
+SLScanDiskTemp=DoD Level C
+SLSwap=
+SLFloppyBS=
+SLTemporaryFiles=
+WavFileAfter=
+WavFileBefore=
+DriveToWipeList=
+C:\=Shell level
+D:\=Shell Level
+E:\=Shell Level
+P:\=Shell Level
+DriveToCleanFSSList=
+C:\=Shell level
+DirToRemoveList=
+FileToRemoveList=
+C:\Program Files\Winamp\winamp.m3u=DoD Level C
+DownloadFileToRemoveList=
+IniSectionToRemoveList=
+RegistryToRemoveList=
+HKEY_CURRENT_USER\Software\Gladiators\Bred3\Recent
+HKEY_CURRENT_USER\Software\IDM Computer Solutions\UltraCompare\m_slHistory1
+HKEY_CURRENT_USER\Software\IDM Computer Solutions\UltraCompare\m_slHistory2
+HKEY_CURRENT_USER\Software\WinRAR\ArcHistory
+HKEY_CURRENT_USER\Software\WinRAR\DialogEditHistory
+BROWSER=AOL
+CLEAN_BROWSER=TRUE
+BROWSER_SL=
+CLEAN_CACHE=TRUE
+CLEAN_URL_ERROR_LOG=FALSE
+CLEAN_AUTOCOMPLETE=TRUE
+CLEAN_HISTORY=TRUE
+CLEAN_COOKIES=TRUE
+BROWSER_END
+BROWSER=NETSCAPE
+CLEAN_BROWSER=TRUE
+BROWSER_SL=
+CLEAN_CACHE=TRUE
+CLEAN_URL_ERROR_LOG=FALSE
+CLEAN_AUTOCOMPLETE=TRUE
+CLEAN_HISTORY=TRUE
+CLEAN_COOKIES=TRUE
+BROWSER_END
+BROWSER=OPERA
+CLEAN_BROWSER=TRUE
+BROWSER_SL=
+CLEAN_CACHE=TRUE
+CLEAN_URL_ERROR_LOG=FALSE
+CLEAN_AUTOCOMPLETE=TRUE
+CLEAN_HISTORY=TRUE
+CLEAN_COOKIES=TRUE
+BROWSER_END
+BROWSER=FIREFOX
+CLEAN_BROWSER=TRUE
+BROWSER_SL=
+CLEAN_CACHE=TRUE
+CLEAN_URL_ERROR_LOG=FALSE
+CLEAN_AUTOCOMPLETE=TRUE
+CLEAN_HISTORY=TRUE
+CLEAN_COOKIES=TRUE
+BROWSER_END
+BROWSER=IE
+CLEAN_BROWSER=TRUE
+BROWSER_SL=
+CLEAN_CACHE=TRUE
+CLEAN_URL_ERROR_LOG=TRUE
+CLEAN_AUTOCOMPLETE=TRUE
+CLEAN_HISTORY=TRUE
+CLEAN_COOKIES=TRUE
+BROWSER_END
+MAIL_CLIENT=EUDORA
+CLEAN_DELETED_MAILS=TRUE
+MAIL_CLIENT_SL=
+MAIL_CLIENT_END
+MAIL_CLIENT=THUNDERBIRD
+CLEAN_DELETED_MAILS=TRUE
+MAIL_CLIENT_SL=
+MAIL_CLIENT_END

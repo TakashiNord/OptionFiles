@@ -1,0 +1,27 @@
+"C:\Program Files\Microsoft SQL Server\MSSQL.1\MSSQL\Binn\sqlservr.exe" -sSQLEXPRESS
+
+\\general\c-plus$\CONS.EXE
+
+D:\Program\ACAD2002\acad.exe  /p "D:\Program\ACAD2002\vanilla.arg"
+
+D:\Program\ACAD2002\acad.exe  /p "D:\Program\ACAD2002\acadm\mdtpp.arg"
+
+"D:\TCL\SpecTcl1.1\bin\wish80.exe" "D:\TCL\SpecTcl1.1\SpecTcl\main.tk" "%1"
+"D:\TCL\SpecTcl1.1\bin\wish80.exe" "D:\TCL\SpecTcl1.1\SpecTcl\main.tk"   "-java" "%1"
+
+"..\Python22\pythonw.exe" "..\Python22\Tools\idle\idle.pyw"
+
+
+
+    SpecTcl1.1.rar - SpecTcl1.1 -> запуск ..\SpecTcl1.1\bin\spec.bat -
+    					изменив путь соответствующим образом
+    					в *.bat файле;
+    			.SpecCommonrc  	|
+    			.SpecJavarc	| - файлы настройки
+    			.SpecTclrc     	|
+
+route add -p 192.168.0.0 mask 255.255.0.0 192.168.5.254 
+
+rem route -p add 10.1.0.0 MASK 255.255.0.0 10.1.1.1
+rem route -p add 192.168.0.0 MASK 255.255.0.0 192.168.5.254
+route -p add 10.1.0.0 MASK 255.255.0.0 192.168.5.254

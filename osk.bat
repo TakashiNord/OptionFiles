@@ -1,0 +1,1 @@
+%WINDIR%\system32\osk.exe
